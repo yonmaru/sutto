@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* スマートフォン用CSS */
+
+.hidden-sp {
+	display:none !important;
+}
+.hidden-tb {
+	display: inherit !important;
+}
+.hidden-pc {
+	display: inherit !important;
+}
+
+
+#footer ul li a {
+    font-size:3vw;
+}
+body.information table caption,
+body.information h3 {
+    font-size:3.5vw;
+}
+body.information table th,
+body.information table td {
+    font-size:3vw;
+}
+body.information table th {
+    width: 35%;
+}
+body.information table td {
+    font-size:3vw;
+    width:65%;
+}
+body.information ul,
+body.information ol {
+    font-size:3vw;
+}
+
