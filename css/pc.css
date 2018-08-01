@@ -119,7 +119,6 @@ body.information .anchor {
     width:66.67%;
     margin:-126px auto 0;
 }
-/*.iframe iframe {
-    width:100%;
-    height:2273px;
-}*/
+.iframe iframe {
+    height:2323px;
+}
