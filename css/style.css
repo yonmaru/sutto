@@ -71,12 +71,12 @@ body.information ul ul li {
     list-style-type: disc;
     padding-top:0;
 }
-/*.inlineframe {
+.inlineframe {
     border:2px solid #EBECE6;
     height:540px;
     padding:2em 2em 2em 0;
     overflow: scroll;
-}*/
+}
 body.information ul ol.indent,
 body.information ul ul.indent {
     padding-left:4em;
